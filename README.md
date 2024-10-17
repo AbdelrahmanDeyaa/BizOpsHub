@@ -116,7 +116,3 @@ Do you have any questions or feedback? Reach out to us through any of the follow
 
 ## 📝 **License **
 BizOpsHub is licensed under the MIT License. Feel free to use, modify, and distribute it in your own projects.
-
-```bash
-You can copy this entire text for your `README.md` file. Let me know if you need any further adjustments!
-```
