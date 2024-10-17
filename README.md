@@ -86,15 +86,15 @@ git clone https://github.com/yourusername/BizOpsHub.git
 ## 📦 **Install Dependencies:**
 ```bash
 pip install -r requirements.txt
-
+```
 ## 🗄️ **Set Up the Database:**
 ```bash
 python create_db.py
-
+```
 ## 💻 **Run the Application:**
 ```bash
 python login.py
-
+```
 ## 🤝 **Contributions**
 We welcome your contributions to BizOpsHub! If you have ideas or improvements, feel free to join us.
 
@@ -112,5 +112,6 @@ Do you have any questions or feedback? Reach out to us through any of the follow
 ## 📝 **License **
 BizOpsHub is licensed under the MIT License. Feel free to use, modify, and distribute it in your own projects.
 
-```arduino
+```bash
 You can copy this entire text for your `README.md` file. Let me know if you need any further adjustments!
+```
