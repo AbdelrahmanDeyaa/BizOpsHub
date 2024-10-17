@@ -407,7 +407,7 @@ class BillClass:
     def bill_top(self):
         self.invoice=int(time.strftime("%H%M%S"))+int(time.strftime("%d%m%Y"))
         bill_top_temp=f'''
-\t\telakhwah - Inventory
+\t\tBizOpsHub - Inventory
 \tشركة الأخوة لتجارة قطع الغيار ترحب بكم
 \t Phone No. +201********* , Dokki
 {str("="*46)}
