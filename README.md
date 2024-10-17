@@ -98,16 +98,17 @@ python login.py
 ## 🤝 **Contributions**
 We welcome your contributions to BizOpsHub! If you have ideas or improvements, feel free to join us.
 
-- 1.-Fork the Repository 🍴.
-- 2.-Create a New Branch for your modification 🌿.
-- 3.-Submit a Pull Request for review 📬.
+1. **Fork the Repository** 🍴
+2. **Create a New Branch** for your modification 🌿
+3. **Submit a Pull Request** for review 📬
 
 ## 📞 **Contact Us**
 Do you have any questions or feedback? Reach out to us through any of the following channels:
 
-- **Email:** your-email@example.com ✉️.
-- **LinkedIn:** Your LinkedIn Profile 🔗.
-- **Twitter:** @YourTwitterHandle 🐦.
+- **Email:** abdodiaa.hosting@gmail.com ✉️
+- **LinkedIn:** (www.linkedin.com/in/abdelrahman-deyaa-3a42b5283) 🔗
+- **Facebook:** (https://www.facebook.com/programmers.idea) 📱
+- **Website:** (https://programmersidea.whf.bz/) 🌐
 
 ## 📝 **License **
 BizOpsHub is licensed under the MIT License. Feel free to use, modify, and distribute it in your own projects.
