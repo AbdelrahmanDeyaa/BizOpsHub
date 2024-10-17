@@ -331,7 +331,7 @@ class BuyingClass:
     def bill_top(self):
         self.invoice=int(time.strftime("%H%M%S"))+int(time.strftime("%d%m%Y"))
         bill_top_temp=f'''
-\t\telakhwah - Inventory
+\t\tBizOpsHub - Inventory
 \t\t  فاتورة شراء
 \t   شركة الأخوة لتجارة قطع الغيار  
 \t  Phone No. +201********* , Dokki
