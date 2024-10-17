@@ -101,14 +101,14 @@ We welcome your contributions to BizOpsHub! If you have ideas or improvements, f
 -1.Fork the Repository 🍴
 -2.Create a New Branch for your modification 🌿
 -3.Submit a Pull Request for review 📬
----
+
 ## 📞 **Contact Us**
 Do you have any questions or feedback? Reach out to us through any of the following channels:
 
 -**Email:** your-email@example.com ✉️
 -**LinkedIn:** Your LinkedIn Profile 🔗
 -**Twitter:** @YourTwitterHandle 🐦
----
+
 ## 📝 **License **
 BizOpsHub is licensed under the MIT License. Feel free to use, modify, and distribute it in your own projects.
 
