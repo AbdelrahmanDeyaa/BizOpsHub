@@ -82,7 +82,7 @@ To set up BizOpsHub, follow the steps below:
 ## 📥 **Clone the Repository:**
 ```bash
 git clone https://github.com/yourusername/BizOpsHub.git
-
+```
 ## 📦 **Install Dependencies:**
 ```bash
 pip install -r requirements.txt
